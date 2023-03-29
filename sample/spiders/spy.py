@@ -1,7 +1,7 @@
 import scrapy
 
-class MovieSpider(scrapy.Spider):
-    name = 'Movielist'
+class Chocolatespider(scrapy.Spider):
+    name = 'Chocolate'
     allowed_domains = ['chocolate.co.uk']
     start_urls = ['https://www.chocolate.co.uk/collections/all']
     
