@@ -2,7 +2,7 @@
 
 This is a Web Scraping project.
 
-In this project, Chocolate names from 'chocolate.co.uk' crawled and stored into json or csv files.
+In this project, Using Scrapy.org Chocolate names from 'chocolate.co.uk' crawled and stored into json or csv files.
 
 Extracted data is saved in mydata.csv and mydata.json files
 
