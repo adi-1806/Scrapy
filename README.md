@@ -1,8 +1,8 @@
 # Scrapy
 
-This a Web Scraping project.
+This is a Web Scraping project.
 
-In this project, I crawled Chocolate names from 'chocolate.co.uk'
+In this project, Chocolate names from 'chocolate.co.uk' crawled and stored into json or csv files.
 
 Extracted data is saved in mydata.csv and mydata.json files
 
